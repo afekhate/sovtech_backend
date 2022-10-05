@@ -1,0 +1,12 @@
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\bin\Debug\net6.0\Sovtech.Infrastructure.deps.json
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\bin\Debug\net6.0\Sovtech.Infrastructure.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\bin\Debug\net6.0\Sovtech.Infrastructure.pdb
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\Sovtech.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\Sovtech.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\Sovtech.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\Sovtech.Infrastructure.AssemblyInfo.cs
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\Sovtech.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\Sovtech.Infrastructure.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\refint\Sovtech.Infrastructure.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\Sovtech.Infrastructure.pdb
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Infrastructure\obj\Debug\net6.0\ref\Sovtech.Infrastructure.dll

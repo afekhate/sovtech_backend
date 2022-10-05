@@ -1,0 +1,15 @@
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.csproj.AssemblyReference.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.AssemblyInfoInputs.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.AssemblyInfo.cs
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\bin\Debug\net6.0\Sovtech.Utilities.deps.json
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\bin\Debug\net6.0\Sovtech.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\bin\Debug\net6.0\Sovtech.Utilities.pdb
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\refint\Sovtech.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.pdb
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\ref\Sovtech.Utilities.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\bin\Debug\net6.0\Sovtech.Infrastructure.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\bin\Debug\net6.0\Sovtech.Infrastructure.pdb
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Utilities\obj\Debug\net6.0\Sovtech.Utilities.csproj.CopyComplete

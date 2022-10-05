@@ -1,0 +1,12 @@
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\bin\Debug\net6.0\Sovtech.Core.deps.json
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\bin\Debug\net6.0\Sovtech.Core.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\bin\Debug\net6.0\Sovtech.Core.pdb
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\Sovtech.Core.csproj.AssemblyReference.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\Sovtech.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\Sovtech.Core.AssemblyInfoInputs.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\Sovtech.Core.AssemblyInfo.cs
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\Sovtech.Core.csproj.CoreCompileInputs.cache
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\Sovtech.Core.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\refint\Sovtech.Core.dll
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\Sovtech.Core.pdb
+C:\Users\fredrickafekhare\Desktop\Freds Backup Project\Projects\SofTech\Sovtech.Core\obj\Debug\net6.0\ref\Sovtech.Core.dll
